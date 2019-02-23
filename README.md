@@ -36,7 +36,7 @@ Maybe an interested company, group or person could help, I think this works effo
 
 The project is based on the translated open sources V1.03 from kortschak (see links).  
 Several parts of the original code were combed, reformatted, rewritten, expanded or discarded.  
-VSCode and several extensions were used for editing.
+VSCode and several extensions were used for editing, the diagrams are composed with OneNote.  
 A big Thanks to kortschak for the translation.
 
 The software is set up for 'Partition 2' installation.
