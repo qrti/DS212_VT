@@ -64,6 +64,15 @@ a spice simulation can be found here [-> spice](spice)
 
 <br>
 
+## Examples
+Old 1 Ah lithium accumulator at 0.5 A discharge in about 50 minutes  
+<img src="images/dis_old.bmp">  
+
+New 1 Ah lithium accumulator at 0.5 A discharge in about 2 hours  
+<img src="images/dis_new.bmp">  
+
+<br>
+
 ## Links
 [http://www.miniware.com](http://www.miniware.com.cn/product/ds212-mini-oscilloscope-digital-oscilloscope)  
 [http://www.minidso.com](http://www.minidso.com/forum.php?mod=viewthread&tid=1816)  
