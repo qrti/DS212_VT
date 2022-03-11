@@ -56,11 +56,21 @@ No guarantee for proper operation can be given.
 <br>
 
 ## Additional Offset Electronic
-to overcome the limited input range capabilities of the DS212 the following minimal solution is possible  
+To overcome the limited input range capabilities of the DS212 the following minimal solution is possible  
 <img src="images/offset_schematic.png" width=640>  
 
-a spice simulation can be found here [-> spice](spice)  
-<img src="images/offset_spice.png" width=640>
+A spice simulation can be found here [-> spice](spice)  
+<img src="images/offset_spice.png" width=640>  
+
+Offset PCB  
+<img src="images/offset_pcb.jpg" width=640>
+``` 
+LEFT (out) to DS212          RIGHT (in)
+
+USB supply             <<<<  USB supply
+test + offset voltage  <<<<  test voltage
+calibration pin head   <<<<  calibration pin head
+```
 
 <br>
 
